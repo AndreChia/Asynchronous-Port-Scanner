@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 
 import asyncio
-import time
 import sys
-
 
 now = time.time()
 
